@@ -36,6 +36,3 @@ This project simulates the motion of the sun and the inner planets of the solar 
 
 ## Acknowledgments
 - **SFML**: Used for rendering the graphical simulation.
-
-## Licenses
-This project is released under the MIT License. Please refer to the LICENSE file for more details.
